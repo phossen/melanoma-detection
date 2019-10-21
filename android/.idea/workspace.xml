@@ -9,15 +9,195 @@
     <list default="true" id="cecff690-bb06-4209-b405-912fb9342f9a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/mobilenet_v1_1.0_224_quant.tflite" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/model2.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CODEOWNERS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/assets/gesture_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/java/org/tensorflow/lite/examples/gesture/AutoFitTextureView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/java/org/tensorflow/lite/examples/gesture/Camera2BasicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/java/org/tensorflow/lite/examples/gesture/CameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/java/org/tensorflow/lite/examples/gesture/ImageClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/java/org/tensorflow/lite/examples/gesture/ImageClassifierFloatInception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-hdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-hdpi/tile.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-mdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xhdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xhdpi/tensorflow_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_chevron_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_left_click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_right_click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_scroll_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_scroll_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/icn_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable-xxhdpi/selection_base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/drawable/bottom_sheet_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/layout-land/fragment_camera2_basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/layout-v26/fragment_camera2_basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/layout/activity_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/layout/fragment_camera2_basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/layout/layout_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/layout/layout_direction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values-sw600dp/template-dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values-sw600dp/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values-v11/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values-v21/base-colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values-v21/base-template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/base-strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/template-dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/app/src/main/res/values/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/AppIcon.appiconset/icn_120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/AppIcon.appiconset/icn_152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/AppIcon.appiconset/icn_167x167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/AppIcon.appiconset/icn_180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/AppIcon.appiconset/icn_76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down.imageset/icn_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down.imageset/icn_down@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down.imageset/icn_down@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down_icon.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down_icon.imageset/icnChevronDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down_icon.imageset/icnChevronDown@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/down_icon.imageset/icnChevronDown@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left.imageset/icn_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left.imageset/icn_left@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left.imageset/icn_left@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left_click.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left_click.imageset/icn_left_click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left_click.imageset/icn_left_click@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/left_click.imageset/icn_left_click@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right.imageset/icn_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right.imageset/icn_right@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right.imageset/icn_right@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right_click.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right_click.imageset/icn_right_click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right_click.imageset/icn_right_click@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/right_click.imageset/icn_right_click@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_down.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_down.imageset/icn_scroll_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_down.imageset/icn_scroll_down@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_down.imageset/icn_scroll_down@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_up.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_up.imageset/icn_scroll_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_up.imageset/icn_scroll_up@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/scroll_up.imageset/icn_scroll_up@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base.imageset/base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base.imageset/base@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base.imageset/base@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base_default.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base_default.imageset/selection_base_default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base_default.imageset/selection_base_default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/selection_base_default.imageset/selection_base_default@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/tfl_logo.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/tfl_logo.imageset/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/tfl_logo.imageset/tfl_logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/tfl_logo.imageset/tfl_logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up.imageset/icn_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up.imageset/icn_up@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up.imageset/icn_up@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up_icon.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up_icon.imageset/icnChevronUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up_icon.imageset/icnChevronUp@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Assets.xcassets/up_icon.imageset/icnChevronUp@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Camera Feed/CameraFeedManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Camera Feed/PreviewView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Cells/GestureCollectionViewCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Cells/InfoCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Extension/StringExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Model/display_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/ModelDataHandler/ModelDataHandler.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/ViewControllers/InferenceViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/ViewControllers/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/GestureClassification/Views/CurvedView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ml/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ml/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ml/convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ml/converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ml/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/ml/tensorflowjs_to_tflite_colab_notebook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/icn_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/invalid-name.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/leftclick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/no-webcam-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/rectangle-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/rectangle-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/rightclick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/scrolldown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/scrollup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/shape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/assets/up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/controller_dataset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gesture_classification/web/webcam.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/download.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/assets/labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/labels.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/CameraActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/CameraActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/CameraConnectionFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/CameraConnectionFragment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/ClassifierActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/ClassifierActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/LegacyCameraConnectionFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/LegacyCameraConnectionFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/AutoFitTextureView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/AutoFitTextureView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/OverlayView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/OverlayView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/RecognitionScoreView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/RecognitionScoreView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/ResultsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/ResultsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/env/BorderedText.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/env/BorderedText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/env/ImageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/env/ImageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/env/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/env/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/tflite/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/tflite/Classifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatMobileNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatMobileNet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierQuantizedMobileNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierQuantizedMobileNet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icn_chevron_down.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icn_chevron_up.png" beforeDir="false" />
@@ -27,6 +207,7 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bottom_sheet_bg.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_add.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_remove.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/camera_connection_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/camera_connection_fragment.xml" afterDir="false" />
@@ -45,8 +226,267 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/base-strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/base-strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/AppIcon.appiconset/icn_120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/AppIcon.appiconset/icn_152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/AppIcon.appiconset/icn_167x167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/AppIcon.appiconset/icn_180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/AppIcon.appiconset/icn_76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/down_icon.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/down_icon.imageset/icnChevronDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/down_icon.imageset/icnChevronDown@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/down_icon.imageset/icnChevronDown@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/tfl_logo.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/tfl_logo.imageset/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/tfl_logo.imageset/tfl_logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/tfl_logo.imageset/tfl_logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/up_icon.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/up_icon.imageset/icnChevronUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/up_icon.imageset/icnChevronUp@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Assets.xcassets/up_icon.imageset/icnChevronUp@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Camera Feed/CameraFeedManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Camera Feed/PreviewView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Cells/InfoCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Extensions/CVPixelBufferExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Model/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/ModelDataHandler/ModelDataHandler.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Storyboards/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Storyboards/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/ViewControllers/InferenceViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/ViewControllers/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ImageClassification/Views/CurvedView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/RunScripts/download_models.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/download_model.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/assets/labelmap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/CameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/CameraConnectionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/DetectorActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/LegacyCameraConnectionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/customview/AutoFitTextureView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/customview/OverlayView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/customview/RecognitionScoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/customview/ResultsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/env/BorderedText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/env/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/env/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/env/Size.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/tflite/Classifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/tflite/TFLiteObjectDetectionAPIModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/java/org/tensorflow/lite/examples/detection/tracking/MultiBoxTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxhdpi/icn_chevron_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxhdpi/icn_chevron_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxhdpi/icn_tf_lite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxhdpi/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxxhdpi/caret.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxxhdpi/chair.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable-xxxhdpi/sample_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable/bottom_sheet_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable/ic_baseline_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable/ic_baseline_remove.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable/laptop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/drawable/rectangle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/layout/activity_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/layout/camera_connection_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/layout/camera_connection_fragment_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/layout/layout_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/values/base-strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/screenshot/OD_Android_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/screenshot/OD_Android_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/screenshot/device-2018-08-10-173223.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/screenshot/device-2018-09-04-121223.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/screenshot/device-2018-09-04-121257.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/AppIcon.appiconset/icn_120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/AppIcon.appiconset/icn_152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/AppIcon.appiconset/icn_167x167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/AppIcon.appiconset/icn_180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/AppIcon.appiconset/icn_76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/down_icon.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/down_icon.imageset/icnChevronDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/down_icon.imageset/icnChevronDown@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/down_icon.imageset/icnChevronDown@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/tfl_logo.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/tfl_logo.imageset/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/tfl_logo.imageset/tfl_logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/tfl_logo.imageset/tfl_logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/up_icon.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/up_icon.imageset/icnChevronUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/up_icon.imageset/icnChevronUp@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Assets.xcassets/up_icon.imageset/icnChevronUp@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Camera Feed/CameraFeedManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Camera Feed/PreviewView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Cells/InfoCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Extensions/CVPixelBufferExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Extensions/StringExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Extensions/UIColorExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Model/labelmap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/ModelDataHandler/ModelDataHandler.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/ViewControllers/InferenceViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/ViewControllers/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Views/CurvedView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/ObjectDetection/Views/OverlayView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/ios/RunScripts/download_models.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/download_model.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/assets/conv_actions_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/java/org/tensorflow/lite/examples/speech/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/java/org/tensorflow/lite/examples/speech/RecognizeCommands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/java/org/tensorflow/lite/examples/speech/SpeechActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-xxhdpi/icn_chevron_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-xxhdpi/icn_chevron_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable-xxhdpi/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/bottom_sheet_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/ic_baseline_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/ic_baseline_remove.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/rectangle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/round_corner_text_bg_selected.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/drawable/round_corner_text_bg_unselected.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/layout/activity_speech.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/layout/layout_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/layout/list_text_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/screenshot/SC_Android_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/screenshot/SC_Android_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/screenshot/device-2018-08-10-122512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/screenshot/device-2018-08-10-123044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/RunScripts/download_models.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/ScreenShots/speech-commands.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/AppIcon.appiconset/icn_120x120-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/AppIcon.appiconset/icn_152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/AppIcon.appiconset/icn_167x167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/AppIcon.appiconset/icn_180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/AppIcon.appiconset/icn_76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/base.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/base.imageset/base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/base.imageset/base@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/base.imageset/base@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/border_color.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/inner_shadow_color.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/tfl_logo.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/tfl_logo.imageset/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/tfl_logo.imageset/tfl_logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Assets.xcassets/tfl_logo.imageset/tfl_logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/AudioInputManager/AudioInputManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Cells/InfoCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Cells/WordCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/Model/conv_actions_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/ModelDataHandler/ModelDataHandler.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/ModelDataHandler/RecognizeCommands.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/ViewControllers/InferenceViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ios/SpeechCommands/ViewControllers/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/callbacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/export/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/export/convert_keras_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/export/convert_keras_to_quantized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/export/convert_tensorflow_lite.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speech_commands/ml/utils.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,26 +494,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_27" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,6 +602,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -166,22 +610,10 @@
               <item name="android" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
             </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="classification" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
@@ -297,10 +729,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17919463" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -312,18 +744,18 @@
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50067115" side_tool="true" weight="0.3282123" />
-      <window_info anchor="bottom" id="Build" order="4" weight="0.31284916" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.3118971" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.3282123" />
       <window_info anchor="bottom" id="Logcat" order="6" />
-      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49932885" weight="0.3282123" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
-      <window_info anchor="right" id="Assistant" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Assistant" order="5" weight="0.32942432" />
       <window_info anchor="right" id="Preview" order="6" />
     </layout>
     <layout-to-restore>
@@ -384,13 +816,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bottom_sheet_bg.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tfl_logo.png" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/logo.png" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
     <entry file="file://$PROJECT_DIR$/app/download.gradle" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera1.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_bottom_sheet.xml" />
@@ -444,21 +870,13 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_connection_fragment.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/customview/ResultsView.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -529,39 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/tensorflow/lite/examples/classification/CameraConnectionFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -625,12 +1010,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="1428">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="64" lean-forward="true" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
   </component>
 </project>

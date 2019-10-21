@@ -15,9 +15,10 @@ limitations under the License.
 
 package org.tensorflow.lite.examples.classification.customview;
 
-import java.util.List;
 import org.tensorflow.lite.examples.classification.tflite.Classifier.Recognition;
 
+import java.util.List;
+
 public interface ResultsView {
-  public void setResults(final List<Recognition> results);
+    public void setResults(final List<Recognition> results);
 }
