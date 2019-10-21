@@ -12,4 +12,6 @@ android/.externalNativeBuild
 android/.gradle/
 android/.idea/
 
+android/app/build/
+
 .ipynb_checkpoints
