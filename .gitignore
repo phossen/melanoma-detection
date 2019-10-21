@@ -6,6 +6,7 @@ android/.idea/modules.xml
 android/.idea/workspace.xml
 android/.DS_Store
 android/build/
+android/app/build/
 android/captures/
 android/.externalNativeBuild/
 

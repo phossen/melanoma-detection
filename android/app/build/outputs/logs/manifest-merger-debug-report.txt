@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\2c6c92180058c66e00493c649cc15d98\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\25bfa9abbe57efa7109f3ed8175af34b\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -36,27 +36,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\po\.gradle\cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
 	package
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:2:5-58
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:2:5-58
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\2c6c92180058c66e00493c649cc15d98\appcompat-1.0.0\AndroidManifest.xml:20:5-44
@@ -121,32 +121,32 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\po\.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
 	android:targetSdkVersion
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-		MERGED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-		MERGED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
-		INJECTED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:6:5-65
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:6:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:8:5-60
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:8:5-60
 	android:name
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:8:19-57
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:8:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:9:5-70
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:9:5-70
 	android:name
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:9:19-67
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:9:19-67
 application
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:12:5-28:19
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:12:5-28:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\po\.gradle\caches\transforms-2\files-2.1\88ef0a203d9bb88f2b7c0f0098ff061e\tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:8:5-20
@@ -160,32 +160,32 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\po
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\po\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:15:9-61
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:15:9-61
 	android:roundIcon
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:18:9-40
 activity#org.tensorflow.lite.examples.classification.ClassifierActivity
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:screenOrientation
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:22:13-49
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:22:13-49
 	android:label
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:21:13-65
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:21:13-65
 	android:name
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:20:13-47
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:20:13-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:23:13-26:29
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\po\Projekte\Medical App\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\po\Projekte\Medical App\melanoma-detection\android\app\src\main\AndroidManifest.xml:25:27-74
