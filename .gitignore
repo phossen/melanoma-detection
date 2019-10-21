@@ -1,17 +1,17 @@
 android/*.iml
-android/.gradle
+android/.gradle/
 android/local.properties
-android/.idea/libraries
+android/.idea/libraries/
 android/.idea/modules.xml
 android/.idea/workspace.xml
 android/.DS_Store
-android/build
-android/captures
-android/.externalNativeBuild
+android/build/
+android/captures/
+android/.externalNativeBuild/
 
 android/.gradle/
 android/.idea/
 
 android/app/build/
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
